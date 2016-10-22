@@ -6,4 +6,4 @@ def cohort_list(array)
   end
 end
 
-cohort_list(students)
+puts students.keys
